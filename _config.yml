@@ -1,0 +1,27 @@
+title: Software, Side Projects, and Stories That Matter
+author: Micaël Paquier
+email: micael.paquier@gmail.com
+description: >-
+  Software, Side Projects, and Stories That Matter.
+  Micael Paquier's website.
+domain: teemoo7.github.io
+url: https://teemoo7.github.io
+baseurl: ""
+github_username: teemoo7
+linkedin_username: micaelpaquier
+medium_username: micael.paquier
+
+# Build settings
+theme: minima
+
+plugins:
+  - jekyll-feed
+timezone: Europe/Zurich
+
+# Pages header
+header_pages:
+  - about.md
+  - projects.md
+  - blog.md
+  - talks.md
+  - inspiration.md

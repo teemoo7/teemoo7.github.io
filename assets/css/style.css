@@ -1,0 +1,15 @@
+.about-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.about-img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.about-text {
+  max-width: 600px;
+}
