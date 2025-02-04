@@ -22,7 +22,7 @@ permalink: /
 
 <br/>
 
-### <i class="fas fa-camera"></i> Explore
+### <i class="fas fa-map"></i> Explore
 
 * [Blog](/blog.md) – Thoughts on software engineering, side projects, and industry insights.
 

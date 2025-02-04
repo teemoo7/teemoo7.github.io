@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## <i class="fas fa-umbrella-beach"></i> Personal Projects
 
-Micael has developed a few personal projects, showcasing his skills and interests. Here are some of them:
+I have developed (and maintained) a few personal projects, showcasing my skills and interests. Here are some of them:
 
 ### <i class="fas fa-chess"></i> Bobby - Chess Engine
 
@@ -26,8 +26,8 @@ Micael has developed a few personal projects, showcasing his skills and interest
 
 ### <i class="fas fa-tv"></i> Magic Mirror Modules
 
-- **Description**: Developed a few custom modules for Magic Mirror, a platform for creating smart mirrors or just
-  practical information display. These modules enhance the user experience with personalized features.
+- **Description**: A few custom modules for Magic Mirror, a platform for creating smart mirrors or just
+  practical information displays. These modules enhance the user experience with personalized features.
 - **Technologies**: JavaScript, Node.js
 - **Repository**: [TomTom Calculate Route Traffic](https://github.com/teemoo7/MMM-TomTomCalculateRouteTraffic) - [Alp Lakes Live Temperature](https://github.com/teemoo7/MMM-AlplakesLiveTemperature)
 
@@ -41,4 +41,4 @@ Micael has developed a few personal projects, showcasing his skills and interest
 
 ## <i class="fas fa-lock-open"></i> Open Source Contributions
 
-He occasionally contributes to open-source projects and enjoys engaging with the software engineering community.
+I occasionally contribute to open-source projects and enjoy engaging with the software engineering community.

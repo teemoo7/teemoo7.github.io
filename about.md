@@ -4,7 +4,7 @@ layout: page
 permalink: /about/
 ---
 
-## Career
+## <i class="fas fa-user-tie"></i> Career
 
 **Micael Paquier** is a Swiss **Principal Software Engineer** at [Migros Online](https://www.migros.ch), Switzerland’s
 leading online supermarket. Over the past decade, he has evolved within the company from an Analyst Developer to IT
@@ -17,7 +17,7 @@ working on a highly used Swiss eGov application.
 He also has a background in academic research, having worked as a scientific assistant after completing his MSc in
 Computer Science at EPFL, Switzerland.
 
-## Areas of Expertise
+## <i class="fas fa-flask"></i> Areas of Expertise
 
 Micael specializes in **backend development, system architecture, and DevOps**. He was part of the core team that
 successfully migrated Migros Online’s IT systems to the **Cloud**. His main focus areas include:
@@ -27,7 +27,7 @@ successfully migrated Migros Online’s IT systems to the **Cloud**. His main fo
 - Systems Stability & Performance
 - Secure Development Practices
 
-## Key Technologies
+## <i class="fas fa-microchip"></i> Key Technologies
 
 With a transversal role as an architect and principal engineer, Micael has worked with a wide range of technologies,
 including but not limited to:
@@ -36,7 +36,7 @@ including but not limited to:
 - Monitoring & Observability: DataDog, Kibana
 - Development & CI/CD: REST API, Microservices, SQL Server, GitHub, GitHub Actions
 
-## Writing & Speaking
+## <i class="fas fa-comments"></i> Writing & Speaking
 
 Micael enjoys sharing knowledge through [tech articles](https://medium.com/@micael.paquier) and [talks](/talks.md) at
 meetups & internal tech conferences. His

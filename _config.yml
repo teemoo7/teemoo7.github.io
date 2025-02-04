@@ -20,6 +20,7 @@ timezone: Europe/Zurich
 
 # Pages header
 header_pages:
+  - index.md
   - about.md
   - projects.md
   - blog.md
