@@ -1,6 +1,5 @@
 ---
 title: Inspiration
-layout: page
 permalink: /inspiration/
 ---
 

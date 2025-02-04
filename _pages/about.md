@@ -1,6 +1,5 @@
 ---
 title: About
-layout: page
 permalink: /about/
 ---
 
@@ -38,7 +37,7 @@ including but not limited to:
 
 ## <i class="fas fa-comments"></i> Writing & Speaking
 
-Micael enjoys sharing knowledge through [tech articles](https://medium.com/@micael.paquier) and [talks](/talks.md) at
+Micael enjoys sharing knowledge through [tech articles](https://medium.com/@micael.paquier) and [talks](/talks) at
 meetups & internal tech conferences. His
 topics include:
 

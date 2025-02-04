@@ -1,28 +1,75 @@
-title: Software, Side Projects, and Stories That Matter
-author: Micaël Paquier
+title: "Software, Side Projects, and Stories That Matter"
+title_separator: "|"
+subtitle: "Micael Paquier's website"
+url: "https://micaelpaquier.com"
+include: ["_pages"]
+author:
+  name: Micaël Paquier
+  avatar: /assets/images/Micael.jpg
+  bio: "Software Engineer, Architect, Speaker"
+  location: Switzerland
+  links:
+    - label: "github"
+      icon: "fab fa-github"
+      url: "https://github.com/teemoo7"
+    - label: "linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/micaelpaquier/"
+    - label: "medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@micael.paquier"
+footer:
+  links:
+    - label: "github"
+      icon: "fab fa-github"
+      url: "https://github.com/teemoo7"
+    - label: "linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/micaelpaquier/"
+    - label: "medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@micael.paquier"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+#paginate: 3
+
 email: micael.paquier@gmail.com
 description: >-
-  Software, Side Projects, and Stories That Matter.
-  Micael Paquier's website.
+  A collection of thoughts, projects, and insights on software development and beyond.
+  From open-source experiments to personal reflections, it's a space for documenting, sharing, and learning
 domain: teemoo7.github.io
-url: https://teemoo7.github.io
 baseurl: ""
+repository: "teemoo7/teemoo7.github.io"
 github_username: teemoo7
 linkedin_username: micaelpaquier
 medium_username: micael.paquier
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale: en-US
+teaser: /assets/images/default-teaser.png
+logo: /assets/images/small-logo.png
+atom_feed:
+  hide: true
 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 timezone: Europe/Zurich
-
-# Pages header
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - blog.md
-  - talks.md
-  - inspiration.md

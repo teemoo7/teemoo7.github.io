@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 
 # Theme
-gem "minima", "~> 2.5"
+#gem "minima", "~> 2.5"
+gem 'jekyll-include-cache'
+gem 'minimal-mistakes-jekyll'
 
 # Publishing
 gem "github-pages", "~> 232", group: :jekyll_plugins
