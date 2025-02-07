@@ -47,10 +47,7 @@ defaults:
       type: pages
     values:
       layout: single
-#      classes: wide
       author_profile: true
-#paginate: 3
-
 email: micael.paquier@gmail.com
 description: >-
   A collection of thoughts, projects, and insights on software development and beyond.
@@ -61,8 +58,12 @@ repository: "teemoo7/teemoo7.github.io"
 github_username: teemoo7
 linkedin_username: micaelpaquier
 medium_username: micael.paquier
-
-# Build settings
+analytics:
+  provider: google-gtag
+  google:
+    tracking_id: G-Y3QDRVN0LL
+    anonymize_ip: true
+google_site_verification: XmGm_drraCNDEClJSxpJ6-G_19_AHpGfTYz-C2U_D-k
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale: en-US
@@ -70,7 +71,6 @@ teaser: /assets/images/default-teaser.png
 logo: /assets/images/small-logo.png
 atom_feed:
   hide: true
-
 plugins:
   - jekyll-feed
   - jekyll-include-cache
