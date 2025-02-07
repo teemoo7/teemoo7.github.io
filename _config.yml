@@ -2,7 +2,7 @@ title: "Software, Side Projects, and Stories That Matter"
 title_separator: "|"
 subtitle: "Micael Paquier's website"
 url: "https://micaelpaquier.com"
-include: ["_pages"]
+timezone: Europe/Zurich
 author:
   name: Micaël Paquier
   avatar: /assets/images/Micael.jpg
@@ -29,6 +29,33 @@ footer:
     - label: "medium"
       icon: "fab fa-medium"
       url: "https://medium.com/@micael.paquier"
+email: micael.paquier@gmail.com
+description: >-
+  A collection of thoughts, projects, and insights on software development and beyond.
+  From open-source experiments to personal reflections, it's a space for documenting, sharing, and learning
+domain: teemoo7.github.io
+baseurl: ""
+repository: "teemoo7/teemoo7.github.io"
+github_username: teemoo7
+linkedin_username: micaelpaquier
+medium_username: micael.paquier
+include: ["_pages"]
+analytics:
+  provider: google-gtag
+  google:
+    tracking_id: G-Y3QDRVN0LL
+    anonymize_ip: true
+google_site_verification: XmGm_drraCNDEClJSxpJ6-G_19_AHpGfTYz-C2U_D-k
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale: en-US
+teaser: /assets/images/default-teaser.png
+logo: /assets/images/small-logo.png
+atom_feed:
+  hide: true
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
 defaults:
   # _posts
   - scope:
@@ -48,30 +75,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-email: micael.paquier@gmail.com
-description: >-
-  A collection of thoughts, projects, and insights on software development and beyond.
-  From open-source experiments to personal reflections, it's a space for documenting, sharing, and learning
-domain: teemoo7.github.io
-baseurl: ""
-repository: "teemoo7/teemoo7.github.io"
-github_username: teemoo7
-linkedin_username: micaelpaquier
-medium_username: micael.paquier
-analytics:
-  provider: google-gtag
-  google:
-    tracking_id: G-Y3QDRVN0LL
-    anonymize_ip: true
-google_site_verification: XmGm_drraCNDEClJSxpJ6-G_19_AHpGfTYz-C2U_D-k
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-locale: en-US
-teaser: /assets/images/default-teaser.png
-logo: /assets/images/small-logo.png
-atom_feed:
-  hide: true
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
-timezone: Europe/Zurich
