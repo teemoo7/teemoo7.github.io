@@ -1,6 +1,7 @@
 ---
 title: Talks
 permalink: /talks/
+classes: wide
 ---
 
 I occasionally enjoy sharing knowledge through **talks at meetups, internal tech conferences, and industry events**.

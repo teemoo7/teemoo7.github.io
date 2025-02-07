@@ -1,6 +1,8 @@
 ---
 title: About
 permalink: /about/
+toc: true
+toc_sticky: true
 ---
 
 ## <i class="fas fa-user-tie"></i> Career

@@ -1,6 +1,7 @@
 ---
 title: Inspiration
 permalink: /inspiration/
+classes: wide
 ---
 
 This page highlights some of the best resources that inspire and inform the software engineering journey. These books,

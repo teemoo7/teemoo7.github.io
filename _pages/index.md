@@ -3,6 +3,10 @@ layout: single
 author_profile: true
 title: Home
 permalink: /
+classes: wide
+header:
+  overlay_image: /assets/images/header-cervin.jpg
+  overlay_filter: 0.3
 ---
 
 ## Software, Side Projects, and Stories That Matter
@@ -20,7 +24,7 @@ Learn more about me on the [About](/about) page.
 
 * [Inspiration](/inspiration) – Books, podcasts, and blogs that have shaped my thinking.
 
-* [Talks](/talks) – Past presentations at meetups, tech conferences, and industry events.
+* [Talks](/talks) – Past presentations I've given at meetups, tech conferences, and industry events.
 
 ### <i class="fas fa-star"></i> Featured Content
 

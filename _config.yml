@@ -47,6 +47,8 @@ defaults:
       type: pages
     values:
       layout: single
+#      classes: wide
+      author_profile: true
 #paginate: 3
 
 email: micael.paquier@gmail.com

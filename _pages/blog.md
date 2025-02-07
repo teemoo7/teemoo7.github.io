@@ -1,6 +1,7 @@
 ---
 title: Blog
 permalink: /blog
+classes: wide
 ---
 
 ## <i class="fas fa-pen"></i> Latest Posts
