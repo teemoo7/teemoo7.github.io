@@ -18,6 +18,7 @@ professional growth.
 
 ## <i class="fas fa-podcast"></i> Podcasts
 
-| **Podcast Name** | **Host(s)**                 | **Why It's Inspiring**                              | **Link**                                |
-|------------------|-----------------------------|-----------------------------------------------------|-----------------------------------------|
-| Book Overflow    | Carter Morgan, Nathan Toups | Bringing discussions and incentives from tech books | [Website](https://www.bookoverflow.io/) |
+| **Podcast Name** | **Host(s)**                 | **Why It's Inspiring**                                                                                                                                                           | **Link**                                |
+|------------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Book Overflow    | Carter Morgan, Nathan Toups | Bringing discussions and incentives from tech books                                                                                                                              | [Website](https://www.bookoverflow.io/) |
+| The Engineering Room | Dave Farley | Dave Farley is a famous software engineering author, a Continuous Delivery pioneer. He loves discussing software engineering, devops and best practices with world-class guests. | [Youtube](https://www.youtube.com/playlist?list=PLwLLcwQlnXByuoAE-jYYg8MSNrzodVtJX) |
